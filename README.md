@@ -8,8 +8,6 @@
 - 💼 Over a decade of experience building AI/ML solutions in **aquaculture, agriculture, remote sensing, and IoT**  
 - 🔬 Currently Researching **Continual Learning**, **Federated learning**, **Contrastive learning**, and **Reinforcement Learning**
 - 🙇‍♂️ Currently Working on **3D Gaussian Splatting**, and **Underwater Acoustic AI**  
-- 🛠 Skilled in **Python, C++, PyTorch, TensorFlow, Computer Vison, NLP, and Data Engineering 
-- 🌏 Experience with **large-scale satellite data pipelines** using Google Earth Engine  
 - 💡 Interested in **AI product development** & **end-to-end deployment** on resource-constrained devices and edge devices
 
 ---
