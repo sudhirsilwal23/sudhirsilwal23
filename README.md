@@ -16,8 +16,7 @@
 
 ## 📫 How to reach me
 - **LinkedIn:** [https://www.linkedin.com/in/sudhirsilwal/](#)  
-- **Email:** your.email@example.com  
-- **Website/Portfolio:** [your-website.com](#)  
+- **Email:** SudhirSilwal23@gmail.com    
 
 ## 🛠 Tech Stack
 
