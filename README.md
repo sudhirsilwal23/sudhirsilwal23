@@ -46,11 +46,11 @@
   <a href="#"><img src="https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/></a>
   <a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/></a>
   <a href="https://developer.nvidia.com/embedded/jetson"><img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
-  <a href="https://developer.nvidia.com/triton-inference-server"><img src="https://img.shields.io/badge/Triton%20Inference%20Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
   <a href="https://github.com/NVIDIA/cutlass"><img src="https://img.shields.io/badge/CUTLASS-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
   <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/></a>
   <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/triton-inference-server"><img src="https://img.shields.io/badge/Triton%20Inference%20Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 </p>
 
 
