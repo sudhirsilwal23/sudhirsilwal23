@@ -6,9 +6,9 @@
 ## 🌟 About Me
 - 🎓 M.Tech (Honors) in Artificial Intelligence & Machine Learning | PG Diploma in Applied Statistics  
 - 💼 Over a decade of experience building AI/ML solutions in **aquaculture, agriculture, remote sensing, and IoT**  
-- 🔬 Currently Researching **Continual Learning**, **Federated learning**, **Contrastive learning**, **Reinforcement Learning**
+- 🔬 Currently Researching **Continual Learning**, **Federated learning**, **Contrastive learning**, and **Reinforcement Learning**
 - 🙇‍♂️ Currently Working on **3D Gaussian Splatting**, and **Underwater Acoustic AI**  
-- 🛠 Skilled in **Python, PyTorch, TensorFlow, Computer Vison, NLP, and Data Engineering 
+- 🛠 Skilled in **Python, C++, PyTorch, TensorFlow, Computer Vison, NLP, and Data Engineering 
 - 🌏 Experience with **large-scale satellite data pipelines** using Google Earth Engine  
 - 💡 Interested in **AI product development** & **end-to-end deployment** on resource-constrained devices and edge devices
 
@@ -36,6 +36,7 @@
   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+  <a href="https://azure.microsoft.com/en-us/products/databricks/"><img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/></a>
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
   <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
