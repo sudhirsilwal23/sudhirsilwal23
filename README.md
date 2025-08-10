@@ -39,9 +39,9 @@
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
   <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
-  <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/></a>
-  <a href="https://developer.nvidia.com/embedded/jetson"><img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/></a>
   <a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/embedded/jetson"><img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
   <a href="https://developer.nvidia.com/triton-inference-server"><img src="https://img.shields.io/badge/Triton%20Inference%20Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
   <a href="https://github.com/NVIDIA/cutlass"><img src="https://img.shields.io/badge/CUTLASS-000000?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
   <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
