@@ -20,11 +20,36 @@
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks**  
-`Python` `C++` `Flutter(Mobile)` `PyTorch` `TensorFlow` `OpenCV` CUDA`  `FastAPI`  
+## 🛠 Languages & Frameworks
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/cuda-zone"><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+</p>
 
-**Tools & Platforms**  
-`Docker` `Kubernetes` `GCP` `AWS` `Azure` `MLflow` `JETSON` `ROS 2` `JAX` `Triton Inference Server` `CUTLASS` `Triton` `Hugging Face` `Unity` `Blender`
+## ⚙️ Tools & Platforms
+<p align="left">
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+  <a href="https://mlflow.org/"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/embedded/jetson"><img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+  <a href="https://docs.ros.org/en/iron/index.html"><img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white"/></a>
+  <a href="https://jax.readthedocs.io/"><img src="https://img.shields.io/badge/JAX-0052CC?style=for-the-badge&logo=google&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/triton-inference-server"><img src="https://img.shields.io/badge/Triton%20Inference%20Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+  <a href="https://github.com/NVIDIA/cutlass"><img src="https://img.shields.io/badge/CUTLASS-000000?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/></a>
+  <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/></a>
+</p>
+
 
 ---
 
