@@ -67,8 +67,9 @@
 
 ## 📊 GitHub Stats
 
-![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhirsilwal23&show_icons=true&theme=tokyonight&cache_bust=1) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhirsilwal23&layout=compact&theme=tokyonight&cache_bust=1)
+![Sudhir's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudhirsilwal23&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhirsilwal23&layout=compact&theme=tokyonight)
 
 ---
 
