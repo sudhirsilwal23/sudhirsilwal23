@@ -8,7 +8,7 @@
 - 💼 Over a decade of experience building AI/ML solutions in **aquaculture, agriculture, remote sensing, and IoT**  
 - 🔬 Currently Worked on **Continual Learning**, **Federated learning**, **Contrastive learning**, and **Reinforcement Learning**
 - 🙇‍♂️ Currently Working on **3D Gaussian Splatting**, **Physics Informed Neural Network(PINN)**, and **Underwater Acoustic AI**  
-- 💡 Interested in **AI Research & Engineering** & **End-to-end AI Product Development** on resource-constrained devices and edge devices
+- 💡 Interested in **AI Research & Engineering**, **Agentic AI** and **End-to-end AI Product Development** on resource-constrained devices and edge devices
 
 ---
 
@@ -52,11 +52,18 @@
   <a href="https://developer.nvidia.com/triton-inference-server"><img src="https://img.shields.io/badge/Triton%20Inference%20Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 </p>
 
+<p align="left">
+<a href="https://www.pinecone.io/learn/retrieval-augmented-generation/"><img src="https://img.shields.io/badge/RAG-FFB000?style=for-the-badge&logo=openai&logoColor=black" alt="RAG Badge"/></a>
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain Badge"/></a>
+<a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-231F20?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge"/> </a>
+</p>
+
+
 
 ---
 
 ## 📌 Featured Projects
-
+- **🛒 Agentic AI in E-commerce** — Autonomous agents for personalized shopping, dynamic promotions, and return fraud detection 
 - **🐟 Shrimp Counting AI** — Real-time shrimp Pl, Juvenile, and  Adult object detection & tracking on mobile and edge devices  
 - **🌾 Agriculture AI** — Disease detection, yield estimation, and pond mapping using satellite imagery  
 - **🤖 RL-based Object Localization** — Move-and-zoom agent for overlapping object detection  
