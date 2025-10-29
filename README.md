@@ -8,7 +8,7 @@
 - 💼 Over a decade of experience building AI/ML solutions in **aquaculture, agriculture, remote sensing, and IoT**  
 - 🔬 Currently Worked on **Continual Learning**, **Federated learning**, **Contrastive learning**, and **Reinforcement Learning**
 - 🙇‍♂️ Currently Working on **3D Gaussian Splatting**, **Physics Informed Neural Network(PINN)**, and **Underwater Acoustic AI**  
-- 💡 Interested in **AI Research & Engineering**, **Agentic AI** and **End-to-end AI Product Development** on resource-constrained devices and edge devices
+- 💡 Interested in **AI Research & Engineering**,**GenAI**,**Agentic AI** and **End-to-end AI Product Development** on resource-constrained devices and edge devices
 
 ---
 
@@ -60,8 +60,6 @@
   <a href="https://www.langchain.com/langgraph">
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=mergegate&logoColor=white" alt="LangGraph Badge"/>
 </a>
-
-<!-- Weaviate -->
 <a href="https://weaviate.io/">
   <img src="https://img.shields.io/badge/Weaviate-FF7A59?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate Badge"/>
 </a>
@@ -75,7 +73,6 @@
 <a href="https://qdrant.tech/">
   <img src="https://img.shields.io/badge/Qdrant-7E3AF2?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant Badge"/>
 </a>
-
 <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-231F20?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge"/> </a>
 <a href="https://www.anthropic.com/news/claude-mcp"><img src="https://img.shields.io/badge/Claude%20MCP-4C2E91?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude MCP Badge"/></a>
 </p>
