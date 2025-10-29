@@ -8,7 +8,7 @@
 - 💼 Over a decade of experience building AI/ML solutions in **aquaculture, agriculture, remote sensing, and IoT**  
 - 🔬 Currently Worked on **Continual Learning**, **Federated learning**, **Contrastive learning**, and **Reinforcement Learning**
 - 🙇‍♂️ Currently Working on **3D Gaussian Splatting**, **Physics Informed Neural Network(PINN)**, and **Underwater Acoustic AI**  
-- 💡 Interested in **AI Research & Engineering**,**GenAI**,**Agentic AI** and **End-to-end AI Product Development** on resource-constrained devices and edge devices
+- 💡 Interested in **AI Research & Engineering**, **GenAI**, **Agentic AI** and **End-to-end AI Product Development** on resource-constrained devices and edge devices
 
 ---
 
