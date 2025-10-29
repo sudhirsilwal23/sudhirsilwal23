@@ -53,9 +53,12 @@
 </p>
 
 <p align="left">
+<a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence"><img src="https://img.shields.io/badge/GenAI-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI Badge"/></a>
+<a href="https://www.microsoft.com/en-us/research/blog/building-agentic-ai-systems/"><img src="https://img.shields.io/badge/Agentic%20AI-1E90FF?style=for-the-badge&logo=autoprefixer&logoColor=white" alt="Agentic AI Badge"/></a>
 <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/"><img src="https://img.shields.io/badge/RAG-FFB000?style=for-the-badge&logo=openai&logoColor=black" alt="RAG Badge"/></a>
 <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain Badge"/></a>
 <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-231F20?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Badge"/> </a>
+<a href="https://www.anthropic.com/news/claude-mcp"><img src="https://img.shields.io/badge/Claude%20MCP-4C2E91?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude MCP Badge"/></a>
 </p>
 
 
