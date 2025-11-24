@@ -6,9 +6,9 @@
 ## 🌟 About Me
 - 🎓 M.Tech (Honors) in Artificial Intelligence & Machine Learning | PG Diploma in Applied Statistics | 
 - 💼 Over a decade of experience building AI/ML solutions in **aquaculture, agriculture, remote sensing, and IoT**  
-- 🔬 Currently Worked on **Edge AI**, **Continual Learning**, **Federated learning**, **Contrastive learning**, and **Reinforcement Learning**
+- 🔬 Recently Worked on **Edge AI**, **Continual Learning**, **Federated learning**, **Contrastive learning**, and **Reinforcement Learning**
 - 🙇‍♂️ Currently Working on **3D Gaussian Splatting**, **Physics Informed Neural Network(PINN)**, and **Underwater Acoustic AI**  
-- 💡 Interested in **AI Research & Engineering**, **GenAI**, **Agentic AI** and **End-to-end AI Product Development** on resource-constrained devices and edge devices
+- 💡 Interested in **Computer Vision**,**AI Research & Engineering**, **GenAI**, **Agentic AI** and **End-to-end AI Product Development** on resource-constrained devices and edge devices
 
 ---
 
